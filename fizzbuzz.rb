@@ -14,4 +14,3 @@ def fizzbuzz_1(int)
     puts "Fizzbuzz"
   end
 end
-
