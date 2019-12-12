@@ -7,4 +7,3 @@ def fizzbuzz(int)
     put "Fizzbuzz"
   end
 end
-
